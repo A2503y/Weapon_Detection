@@ -1,0 +1,164 @@
+[20250408_090044] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250408_090044.jpg
+  knife: Confidence 0.74
+
+[20250408_090046] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250408_090046.jpg
+  knife: Confidence 0.98
+
+[20250408_090048] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250408_090048.jpg
+  scissors: Confidence 0.64
+
+[20250408_090050] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250408_090050.jpg
+  scissors: Confidence 0.89
+
+[20250408_090058] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250408_090058.jpg
+  scissors: Confidence 0.84
+
+[20250409_205001] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250409_205001.jpg
+  scissors: Confidence 0.68
+
+[20250409_205004] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250409_205004.jpg
+  scissors: Confidence 0.69
+
+[20250409_205009] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250409_205009.jpg
+  knife: Confidence 0.61
+
+[20250409_205011] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250409_205011.jpg
+  knife: Confidence 0.96
+
+[20250410_100526] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250410_100526.jpg
+  scissors: Confidence 0.81
+
+[20250410_100529] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250410_100529.jpg
+  knife: Confidence 0.75
+
+[20250410_100531] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250410_100531.jpg
+  knife: Confidence 0.84
+
+[20250421_150148] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250421_150148.jpg
+  knife: Confidence 0.54
+
+[20250421_151901] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250421_151901.jpg
+  scissors: Confidence 0.89
+
+[20250421_151903] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250421_151903.jpg
+  scissors: Confidence 0.53
+
+[20250421_152101] Detected: bottle
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250421_152101.jpg
+  bottle: Confidence 0.52
+
+[20250424_162344] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_162344.jpg
+  knife: Confidence 0.58
+
+[20250424_162347] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_162347.jpg
+  knife: Confidence 0.94
+
+[20250424_162510] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_162510.jpg
+  knife: Confidence 0.78
+
+[20250424_162513] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_162513.jpg
+  knife: Confidence 0.81
+
+[20250424_162515] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_162515.jpg
+  knife: Confidence 0.85
+
+[20250424_164447] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164447.jpg
+  knife: Confidence 0.59
+
+[20250424_164450] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164450.jpg
+  knife: Confidence 0.56
+
+[20250424_164452] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164452.jpg
+  knife: Confidence 0.70
+
+[20250424_164455] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164455.jpg
+  knife: Confidence 0.63
+
+[20250424_164500] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164500.jpg
+  knife: Confidence 0.76
+
+[20250424_164506] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250424_164506.jpg
+  knife: Confidence 0.59
+
+[20250425_103218] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250425_103218.jpg
+  scissors: Confidence 0.92
+
+[20250425_103221] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250425_103221.jpg
+  scissors: Confidence 0.63
+
+[20250425_103933] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250425_103933.jpg
+  scissors: Confidence 0.89
+
+[20250425_103935] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Desktop\weapon_detection_project\output\weapon_detected_20250425_103935.jpg
+  scissors: Confidence 0.98
+
+[20250425_105106] Detected: baseball bat
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_105106.jpg
+  baseball bat: Confidence 0.54
+
+[20250425_105109] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_105109.jpg
+  scissors: Confidence 0.98
+
+[20250425_105202] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_105202.jpg
+  scissors: Confidence 0.75
+
+[20250425_140633] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140633.jpg
+  scissors: Confidence 0.84
+
+[20250425_140636] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140636.jpg
+  scissors: Confidence 0.97
+
+[20250425_140638] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140638.jpg
+  scissors: Confidence 0.96
+
+[20250425_140641] Detected: scissors
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140641.jpg
+  scissors: Confidence 0.97
+
+[20250425_140652] Detected: backpack
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140652.jpg
+  backpack: Confidence 0.63
+
+[20250425_140654] Detected: backpack
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140654.jpg
+  backpack: Confidence 0.55
+
+[20250425_140933] Detected: knife
+  Image saved: C:\Users\Mehak\OneDrive\Documents\weapon_detection_project\output\weapon_detected_20250425_140933.jpg
+  knife: Confidence 0.54
+
