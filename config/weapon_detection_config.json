@@ -2,7 +2,8 @@
     "enabled_categories": [
         "cutting_weapons",
         "blunt_weapons",
-        "potential_weapons"
+        "potential_weapons",
+        "firearms"
     ],
     "confidence_threshold": 0.5,
     "custom_classes": {}
